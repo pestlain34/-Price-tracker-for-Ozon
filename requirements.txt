@@ -1,0 +1,6 @@
+selenium
+requests
+python-dotenv
+matplotlib
+pandas
+webdriver-manager
